@@ -1,0 +1,51 @@
+baseURL = "https://tongweijiayou.com"
+hasCJKLanguage = true
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "彤炜加油"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+#googleAnalytics = ""
+
+[params]
+title = "彤炜加油"
+author = "Tone Well"
+description = "静女其娈/贻我彤管/彤管有炜/说怿女美"
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = []
+
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "首页"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "日记"
+  weight = 200
+  identifier = "daily"
+  url = "/daily/"
+
+  [[menu.main]]
+  name = "资料"
+  weight = 300
+  identifier = "docs"
+  url = "/docs/"
+
+  [[menu.main]]
+  name = "关于"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
