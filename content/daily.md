@@ -48,7 +48,7 @@ type = "post"
 
 常规病理检查报告：肺肿瘤（肺肿瘤）镜下：肺泡组织中见核深染异型小圆细胞弥漫增生，胶原性纤维血管间隔将肿瘤组织分隔成巢状结构，大部分呈腺泡状生长。局部区域见肿瘤细胞围绕血管排列。
 
-免疫组化结果：Vimentin+，Desmin+，MyoD1+，Myogenin+，INI1+，LCA-，CD34-，Bc12+，Ki67约70%，CK-，CD56+，NSE-，S100-，CD99部分+/-，CyclinD1-，CgA-，WT1+，CR-，ERG-，Fli1少数+/-，CAM5.2-。
+免疫组化结果：Vimentin+，Desmin+，MyoD1+，Myogenin+，INI1+，LCA-，CD34-，Bcl2+，Ki67约70%，CK-，CD56+，NSE-，S100-，CD99部分+/-，CyclinD1-，CgA-，WT1+，CR-，ERG-，Fli1少数+/-，CAM5.2-。
 
 特殊染色结果：PAS+。
 
