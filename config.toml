@@ -45,7 +45,13 @@ mainSections = []
   url = "/docs/"
 
   [[menu.main]]
-  name = "关于"
+  name = "链接"
   weight = 400
+  identifier = "links"
+  url = "/links/"
+
+  [[menu.main]]
+  name = "关于"
+  weight = 500
   identifier = "about"
   url = "/about/"
