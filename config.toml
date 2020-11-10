@@ -45,10 +45,10 @@ mainSections = []
   url = "/docs/"
 
   [[menu.main]]
-  name = "链接"
+  name = "书签"
   weight = 400
-  identifier = "links"
-  url = "/links/"
+  identifier = "bookmarks"
+  url = "/bookmarks/"
 
   [[menu.main]]
   name = "关于"
