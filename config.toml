@@ -39,6 +39,12 @@ mainSections = []
   url = "/daily/"
 
   [[menu.main]]
+  name = "档案"
+  weight = 210
+  identifier = "files"
+  url = "/files/"
+
+  [[menu.main]]
   name = "资料"
   weight = 300
   identifier = "docs"
