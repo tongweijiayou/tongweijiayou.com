@@ -1,0 +1,130 @@
++++
+title = "ALK基因的突变与靶向治疗"
+date = "2021-02-18"
+
++++
+
+https://zhuanlan.zhihu.com/p/148754438
+
+PTKs的异常激活是肿瘤发生的重要机制之一。ALK（anaplastic lymphoma kinase，间变性淋巴瘤激酶）属于受体型PTKs家族，主要在神经系统表达，是目前研究相对较多的一种PTKs，它与多种肿瘤的发生有着密切的联系。本文就ALK蛋白在肿瘤中的变异及靶向治疗手段进行总结和回顾。
+
+## **1. ALK结构与下游信号通路**
+
+ALK是一种受体酪氨酸激酶，属于胰岛素受体超家族。人ALK基因位于2号染色体p23.2-p23.1，编码1620个氨基酸，经过翻译后修饰生成200～220kDa的成熟ALK蛋白。ALK在神经系统的发育和功能中扮演重要角色，在小肠、睾丸、前列腺及结肠中也有表达，但其在正常淋巴组织、肺及其他组织中不表达。ALK蛋白的N端位于细胞膜外，含有信号肽、2个MAM（meprin，A5 protein，and receptor protein tyrosine phosphatase mu，甲基多巴-A5蛋白-受体型蛋白酪氨酸磷酸酶）结构域、LDL（low density lipoprotein class，低密度脂蛋白）结构域、甘氨酸富集区；C端位于胞内，含有近膜区、TK结构域（tyrosine kinase catalytic domain，酪氨酸激酶结构域）。其中胞外MAM结构域与细胞黏附相关，LDLa是低密度脂蛋白和钙离子的结合区域；胞内的激酶结构域是ALK发挥激酶功能的主要结构域，该区域发生变异常会导致肿瘤的发生。ALK的C端由激活环和α螺旋组成，激活环内含有3个酪氨酸，分别位于第1278、1282、1283位，ALK发生变异时，其磷酸化异常会影响ALK蛋白的空间构象和激酶的活性，导致肿瘤的发生。
+
+
+
+由于没有鉴定出ALK的配体，长久以来ALK一直是一个孤儿受体（orphan receptor）（曾有研究人员鉴定出Pleiotrophin (PTN) 和Midkine (MK)可以与ALK结合，但该数据难以重复）。直到2015年1月，耶鲁大学医学院药理学系主任Joseph Schlessinger的研究团队才鉴定出herparin（肝素）是ALK真正的受体，该研究成果发表在Science杂志上：
+
+
+
+ALK可激活多个细胞内信号通路，包括PLCγ，JAK-STAT、PI3K-AKT、mTOR及MAPK等信号通路，从而参与调节细胞生长、转化及抗细胞凋亡。在多种肿瘤中均发现了ALK基因重组、突变或扩增，引起下游信号通路的激活，从而提高癌细胞的增殖、生长、侵袭等能力。
+
+
+
+## **2. ALK的异常表达或激活**
+
+ALK发生变异时被异常激活，而自身激酶活性的增强能激活下游信号分子，进而使细胞增殖失控，导致肿瘤的产生。
+
+ALK的异常激活大致可以分为以下几种类型：
+
+1. **ALK激活型突变**，包括配体依赖的激活突变（ligand-dependent ALK activation）和非配体依赖的激活突变（ligand-independent ALK activation）
+2. **ALK基因扩增**，但并不是所有的ALK扩增均会导致ALK蛋白表达的上调
+3. **ALK融合蛋白**，基因重排导致的ALK融合蛋白是最常见的ALK变异形式
+4. **ALK致癌亚型ALKATI**，2015年发表在Nature杂志上的一篇研究（PMID: 26444240）发现，约11%的黑色素瘤中表达一种ALK的致癌剪切体，该致癌剪切体不包含胞外结构域和跨膜结构域，主要由ALK蛋白的激酶结构域及C端序列组成
+
+
+
+**ALK基因融合**
+
+ALK基因融合是指ALK发生断裂并与其他基因融合，翻译后ALK融合蛋白构象改变，影响自身磷酸化，而导致肿瘤的发生。ALK融合后的致瘤活性是由其融合伴侣决定的，ALK融合伴侣介导的ALK融合可不依赖其配体形成二聚体并使蛋白激酶域活化。首个ALK融合蛋白NPM1-ALK于1994年在间变性大细胞淋巴瘤（anaplastic large-cell lymphoma，ALCL）细胞系中发现（这也是ALK蛋白被首次发现）。此后，在多种恶性肿瘤中发现了多种类型的ALK融合蛋白。临床前模型已证实ALK基因重组是为肿瘤的驱动因素之一。在这些模型中，ALK促进下游信号通路的激活和肿瘤细胞的增殖，诱导恶性肿瘤表型的形成。
+
+
+
+ALCL是一种T细胞非霍奇金淋巴瘤，约50%的成年ALCL患者为ALK阳性，在未成年ALCL患者中ALK基因融合的频率高达90%（正因为如此高的突变频率，2012年的一篇文章将ALK突变的ALCL称为“ALKoma”）。就具体融合蛋白而言，NPM1-ALK是ALCL中最常见的易位，存在于75%～80%的ALK阳性ALCL患者中。此外，TPM3-ALK存在于12%～18%的ALCL患者中。其它融合蛋白包括TFG-ALK、CLTC1-ALK及ATIC-ALK出现频率较低，均在2%以内。
+
+目前已报道的ALK基因融合相关的实体肿瘤主要有炎性成肌纤维母细胞瘤（inflammatory myofibroblastic tumors，IMT）、非小细胞肺癌（non-small cell lung cancer，NSCLC）、乳腺癌（breastcancer，BC）、直结肠癌（colorectal cancer，CRC）、食管鳞状上皮细胞癌（esophageal squamous cell cancer，ESCC）、肾细胞癌（renalcell cancer，RCC）、卵巢癌（ovarian cancer，OC）等。其中IMT是一种发生于软组织的肿瘤，50%的IMTs染色体2p23区域发生易位，存在TPM3/4-ALK融合基因。其它ALK融合突变（包括TPM4、CLTC、CARS及RANBP2）在IMTs中发生率较低。
+
+由于发病人数较多，NSCLC是目前研究的最为热门的ALK融合相关肿瘤。在NSCLC中约有5%的患者ALK融合检测呈阳性，其融合伴侣主要是EML4。ALK编码膜内区域的10个外显子与EML4的不同外显子通过不同的断点进行融合，在NSCLC中可形成13种ALK融合蛋白，其他与ALK融合的蛋白包括SEC31A-ALK、HIP1-ALK、KIF5B-ALK和KLC1-ALK，在肺癌并中不常见。 EML4-ALK阳性NSCLC患者多为年轻人群，且多为男性患者，不吸烟或有轻度吸烟史的患者阳性率较吸烟者显著增高。
+
+
+
+野生型ALK是定位在细胞膜上的跨膜蛋白，而ALK融合蛋白由于失去了胞外结构域和跨膜结构域而无法定位于细胞膜上，因此ALK融合蛋白的亚细胞定位主要由另一半蛋白来决定。如下图所示，不同的ALK融合蛋白定位有所不同。以NPM1-ALK为例，NPM1蛋白是个核蛋白，而NPM1-ALK则有细胞核与细胞质基质两种形式，但由于细胞核中野生型的NPM1蛋白会抑制NPM1-ALK融合蛋白的二聚化，因此只有胞浆中的NPM1-ALK融合蛋白才具有激酶活性。
+
+
+
+**ALK基因的激活突变**
+
+在大部分正常细胞中ALK呈非活化状态，当ALK基因发生突变，常导致蛋白异常活化。ALK激活突变主要发生在神经母胶质瘤（neuroblastoma）中，在甲状腺癌、肺癌等肿瘤中也能检测到ALK激活型突变。绝大部分激活型突变均位于ALK的激酶结构域上，其中包括两个热点突变位点：F1174（突变为C、I、L、S或V）和R1275（突变为Q或L），这两个位点的突变的频率在所有ALK突变中占到了85%（如下图所示，下图不要只看圆点的个数，注意看括号里的数字）。
+
+
+
+正常ALK的激活首先需要发生自磷酸化，磷酸化ALK蛋白的激酶活性是非磷酸化ALK蛋白的数十倍，然而这些激活型的ALK突变，如Phe1174Leu、Arg1275Gln突变的ALK，其激酶活性要接近于或稍弱于磷酸化的ALK蛋白（Phe1174Leu突变呈去磷酸化状态的ALK活性是野生型磷酸化ALK活性的86%，Arg1275Gln突变呈去磷酸化状态的ALK活性是野生型磷酸化ALK活性的28%、是野生非活化状态ALK活性的13倍）。
+
+
+
+**ALK基因拷贝数变异**
+
+目前已经在多种肿瘤中发现ALK基因扩增，但需要注意的是，ALK基因扩增或拷贝数增加并不总是对应ALK蛋白高表达或下游增强。
+
+有研究发现，神经母细胞瘤细胞系和原发性神经母细胞瘤组织中有ALK基因扩增，同时伴随ALK蛋白的表达上调并促进肿瘤的发生。由于基因扩增导致的ALK持续活化会导致ALK下游SHCC蛋白超磷酸化。体外研究发现，利用siRNA下调ALK可抑制SHCC，进而诱导神经母细胞瘤细胞凋亡，提示靶向ALK可能是ALK扩增型肿瘤的治疗方法。同样，约9%的原发性神经母细胞瘤患者组织中存在ALK基因扩增。
+
+2011年的一篇研究发现约10%的NSCLC患者（11/107）中存在ALK基因扩增，其中63%（68/110）存在ALK基因拷贝数增加。但由于这部分细胞的数目较少，且与组织中ALK表达的增加无关，所以ALK扩增并非NSCLC的重要驱动事件。另一项研究对191例NSCLC患者进行了分析，结果发现11%的患者中存在ALK基因的扩增，这篇研究还发现超过70%的NSCLC细胞系的ALK基因发生了3-4个拷贝的扩增之后仍对克唑替尼治疗敏感。
+
+约11%的食管癌（esophageal cancer）患者存在ALK基因扩增。同样，这些病例中的 ALK基因扩增与ALK蛋白的表达或下游STAT3磷酸化水平无关。有研究发现37%的结肠癌患者存在ALK基因拷贝数增加，这种拷贝数增加同样与蛋白表达水平无关，但与预后不良相关。乳腺癌中也发现ALK基因拷贝数增加且与预后不良相关，但免疫组化检测显示ALK基因拷贝数的增加与蛋白表达的增加无关。
+
+## **3. ALK的靶向治疗**
+
+目前已经上市的ALK TKI包括1代的克唑替尼（Crizotinib）；2代的塞瑞替尼（Ceritinib）、阿来替尼（Alectinib）、布加替尼（Brigatinib）；以及3代的劳拉替尼（Lorlatinib）。国产的2代药恩沙替尼（Ensartinib）也即将在国内上市。
+
+**克唑替尼**
+
+克唑替尼是第一个上市的ALK抑制剂，靶点为ALK、c-MET和ROS1。PROFILE 1007研究（Ⅲ期）结果显示，在既往接受一线含铂类化疗方案失败的ALK阳性NSCLC患者中，接受克唑替尼治疗的ORR为65%，明显优于培美曲塞或多西他赛。ALK阳性NSCLC患者治疗（PROFILE 1014研究）结果显示，与标准一线化疗相比，克唑替尼可以显著改善无进展生存期（PFS）（中位PFS：10.9个月︰7个月）和ORR。基于这些研究结果，FDA批准克唑替尼作为ALK重排的NSCLC患者的标准一线治疗药物上市。
+
+**色瑞替尼（塞瑞替尼）**
+
+色瑞替尼(ceritinib)由诺华开发，于2014年4月29日经美国食品药品监督管理局(FDA)批准上市。色瑞替尼可以有效抑制克唑替尼治疗后出现的ALK突变。Ⅰ期研究选取114例ALK重排、未接受过克唑替尼治疗和克唑替尼耐药的NSCLC患者，结果显示ORR为58%。在此基础上，色瑞替尼被批准作为ALK阳性的NSCLC患者的二线治疗药物。ASCEND-4研究比较了色瑞替尼和标准化疗方案治疗的患者，结果显示，色瑞替尼组患者的中位PFS为16.6个月，而铂类化疗药物组患者为8.1个月。
+
+**阿来替尼（艾乐替尼）**
+
+阿来替尼是第二代ALK TKI，由罗氏公司研制，可抑制克唑替尼获得性耐药突变（包括L1196M、F1174L、R1275Q及C1156Y）。基于ALEX研究，阿来替尼治疗的无进展生存期（PFS）长达34.8个月，2016年，阿来替尼获得了FDA和EMA的批准，作为ALK阳性的NSCLC患者的二线治疗药物。两项Ⅰ～Ⅱ期研究表明，阿来替尼耐受性良好。第一项研究是日本Ⅰ～Ⅱ期研究（AF-0001JP），在未接受ALK抑制剂的ALK阳性NSCLC患者，ORR为93.5%，继续治疗后3年的PFS为62%，3年的总体生存率（overall survival，OS）为78%。重要的是，在14例脑转移患者中，6例患者的脑转移没有进展。另一项研究检验了阿来替尼对克唑替尼耐药的ALK阳性NSCLC患者的疗效，ORR为55%。其次，两项Ⅱ期临床研究（NP28761和NP28673）纳入了对克唑替尼耐药的ALK阳性NSCLC患者，均给予阿来替尼治疗，ORR分别为48%和50%，中位PFS分别为8.1个月和8.9个月。这两项研究也证实了阿来替尼对中枢神经系统转移的疗效。
+
+**布加替尼**
+
+布加替尼属于第二代ALK抑制剂，是目前唯一的ALK、EGFR双靶点抑制剂，其对ALK的抑制作用是克唑替尼的12倍。Ⅱ期临床随机对照试验(ALTA)显示不同剂量的布加替尼的ORR分别为51%、55%，DOR分别为13.8、14.8个月，中位PFS分别为9.2、16.7个月。基于该研究结果，布加替尼于2017年4月被美国FDA批准用于ALK阳性NSCLC患者的二线治疗。
+
+**恩曲替尼**
+
+恩曲替尼是NTRK1/2/3、ROS1和ALK的小分子抑制剂，由意大利Nerviano制药研发公司首先研制。2013年10月与美国Ignyta制药公司签署协议授权该公司独家经营权进行产品开发及商业化。2018年2月，Ignyta被罗氏收购成为其全资控股的子公司。恩曲替尼于2019年相继在日本和美国上市，用于治疗NTRK融合和ROS1融合阳性患者（并没有针对ALK融合突变批准，所以严格上来说恩曲替尼暂时不能用来治疗ALK融合肿瘤）。
+
+恩曲替尼是FDA继默沙东帕博利珠单抗(pembrolizumab)及Array BioPharma和Loxo Oncology公司联合研制的拉洛替尼之后批准的第三种广谱抗肿瘤药，不限癌种。在STARTRK-2的Ⅱ期临床试验和STARTRK-1的Ib期研究及ALKA-372-001的I期研究中，恩曲替尼对NTRK基因融合蛋白阳性、局部进展或转移性实体瘤患者，显示使肿瘤缩小的客观缓解率(ORR)为57．4%，其中，脑转移的患者，颅内的ORR为54．5%，25%患者达到病灶全部消失的完全缓解率(CR)。对局部晚期或转移性ROS1阳性非小细胞肺癌NSCLC患者，37．7%患者的ORR高达77．4%，缓解持续时间为24．6个月。
+
+**恩沙替尼**
+
+恩沙替尼为贝达药业与Xcovery公司共同研发的国内首个2代ALK抑制剂，预计2020年即将上市。恩沙替尼对L1196M与C1156Y两个克唑替尼耐药靶点敏感，可用于部分克唑替尼耐药的患者，且恩沙替尼具有较好的血脑屏障穿透能力。恩沙替尼的Ⅱ期临床试验结果表明，恩沙替尼对未经克唑替尼治疗、克唑替尼治疗后耐药及脑转移的ALK阳性NSCLC患者均有效，其中未经克唑替尼治疗的8例进展期ALK阳性NSCLC患者的ORR为88%，PFS最长可超过32个月；32例克唑替尼耐药者的ORR为77%，PFS最长为28个月。
+
+**劳拉替尼**
+
+劳拉替尼是第三代ALK抑制剂，且为ALK与ROS-1双重抑制剂，由辉瑞公司研发，2018年11月在美国和欧洲上市，用于治疗ALK耐药突变的非小细胞肺癌。一项研究劳拉替尼对ALK或ROS1阳性进展期NSCLC患者疗效的Ⅱ期临床试验结果显示，初治患者的ORR为90%(27/30)，其中颅内病灶的ORR为67%(2/3)；既往接受过克唑替尼患者的ORR为70%(41/59)，其中颅内病灶的ORR为87%(20/23)；接受克唑替尼以外的ALK抑制剂患者的ORR为32%(9/28)，其中颅内病灶的ORR为56%(5/9)；接受2~3种ALK抑制剂患者的ORR为39%(43/111)，其中颅内病灶的ORR为53%(26/49)。这一结果提示劳拉替尼在脑转移患者中的治疗效果显著，且与既往接受治疗的线数无关。目前国内外劳拉替尼对比克唑替尼一线治疗ALK阳性NSCLC患者疗效的Ⅲ期临床随机对照试验(CROWN)正在进行中，预计将于2023年结束。
+
+------
+
+参考资料
+
+Itchins M， Chia P L， Hayes S A， et al. Treatment of ALK‐rearranged non‐small cell lung cancer: A review of the landscape and approach to emerging patterns of treatment resistance in the Australian context[J]. Asia‐Pacific Journal of Clinical Oncology， 2017， 13: 3-13.
+
+Lin J J， Riely G J， Shaw A T. Targeting ALK: precision medicine takes on drug resistance[J]. Cancer discovery， 2017， 7(2): 137-155.
+
+Nelson K N， Peiris M N， Meyer A N， et al. Receptor tyrosine kinases: translocation partners in hematopoietic disorders[J]. Trends in molecular medicine， 2017， 23(1): 59-79.
+
+Murray P B， Lax I， Reshetnyak A， et al. Heparin is an activating ligand of the orphan receptor tyrosine kinase ALK[J]. Science signaling， 2015， 8(360): ra6-ra6.
+
+Huang H. Anaplastic lymphoma kinase (ALK) receptor tyrosine kinase: a catalytic receptor with many faces[J]. International journal of molecular sciences， 2018， 19(11): 3448.
+
+Wiesner T， Lee W， Obenauf A C， et al. Alternative transcription initiation leads to expression of a novel ALK isoform in cancer[J]. Nature， 2015， 526(7573): 453-457.
+
+Mano H. ALKoma: a cancer subtype with a shared target[J]. Cancer discovery， 2012， 2(6): 495-502.
+
+Bresler S C， Weiser D A， Huwe P J， et al. ALK mutations confer differential oncogenic activation and sensitivity to ALK inhibition therapy in neuroblastoma[J]. Cancer cell， 2014， 26(5): 682-694.
+
+Holla V R， Elamin Y Y， Bailey A M， et al. ALK: a tyrosine kinase target for cancer therapy[J]. Molecular Case Studies， 2017， 3(1): a001115.
