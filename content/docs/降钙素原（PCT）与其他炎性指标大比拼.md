@@ -118,11 +118,7 @@ PCT水平与感染的严重程度呈正相关[3]，并可随炎症的控制和�
 
 表1 PCT与其他炎性指标的特点对比
 
-
-
-
-
-
+![preview](https://pic1.zhimg.com/v2-7dd9e8d6b90697f783e2bb40a8d2ae48_r.jpg)
 
 **总结**
 
